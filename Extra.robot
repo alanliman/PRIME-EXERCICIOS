@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation    Aqui neste arquivo estão todos os dados do exercicio de Argumentos e Retornos + If Simples
+Documentation    Aqui neste arquivo estão todos os dados do exercicio extra TRY EXCEPT FINALLY
 
 Library    SeleniumLibrary
 
